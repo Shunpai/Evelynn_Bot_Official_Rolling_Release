@@ -28,8 +28,10 @@ and retreive various kinds of summoner account information.
 
 ## Flexqueue Search | /flexqueue [summoner name]  
 > /flexqueue Iove you more
-    ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096891783561226/MatchStated.png)
+
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096891783561226/MatchStated.png)
 
 ## MMR Search | /MMR [summoner name] 
 > /mmr Iove you more
-    ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090098213916258345/mmr_checked.png)
+
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090098213916258345/mmr_checked.png)
