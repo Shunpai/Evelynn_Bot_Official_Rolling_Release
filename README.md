@@ -5,6 +5,7 @@
 Evelynn is a multipurpose bot that allows server users to search for league of legends summoner names 
 and retreive various kinds of summoner account information.
 
+![Invite Evelynn Bot!](https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot)
 ## Features
 
 - Search for solo-queue summoner profile information
