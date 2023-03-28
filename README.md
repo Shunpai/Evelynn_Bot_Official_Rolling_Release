@@ -25,20 +25,25 @@ and retreive various kinds of summoner account information.
 
 ## Soloque Search | /soloqueue [summoner name] 
 > /soloqueue Iove you more
-    ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096856077439027/MatchStated.png)
+
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096856077439027/MatchStated.png)
 
 ## Flexqueue Search | /flexqueue [summoner name]  
 > /flexqueue Iove you more
-    ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096891783561226/MatchStated.png)
+
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090096891783561226/MatchStated.png)
 
 ## MMR Search | /MMR [summoner name] 
 > /mmr Iove you more
-    ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090098213916258345/mmr_checked.png)
+
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090098213916258345/mmr_checked.png)
     
 ## Setup Team Event | /setup_team [event] options: scrims/meeting
 > /setup_team scrims
-    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q3ZGQ3YTM3MDUxY2YyZjUwM2EyNGJmZDA0ODZhZjk4ZDg4OGZkOSZjdD1n/0kJlVwIRPkyC8nzFdZ/giphy.gif)
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q3ZGQ3YTM3MDUxY2YyZjUwM2EyNGJmZDA0ODZhZjk4ZDg4OGZkOSZjdD1n/0kJlVwIRPkyC8nzFdZ/giphy.gif)
     
 ## Clash Scouting | xclash [summoner name]
 > xclash [summoner name]
-    ![](https://media.discordapp.net/attachments/841195123063914516/1090104512196399135/image.png)
+
+![](https://media.discordapp.net/attachments/841195123063914516/1090104512196399135/image.png)
