@@ -52,10 +52,10 @@ and retreive various kinds of summoner account information.
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzExZTZiZmQ4NTcwYTNkNGYzYTFmMWY1ZGMyN2M5OGQyYTJkNDQxMSZjdD1n/0W73IQunpPBwptVegg/giphy.gif)
 
 
-## In House's | /setup_inhouse [role] [players needed]
-> /setup_inhouse
+## In House's/customs | /customs
+> /customs
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1YjQ3Yjg5YjVmZWQ1M2I4ZDRlMGRkMjEwYmMzNGRhMGE5Y2QzYiZjdD1n/j1I5e3ra1svj2WrDbY/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBhNDcwOTMzMmQ1NzNjZWQwZTEyNGJlNjJjZjgyOTU4MTY3NzA0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TgDnrqJrMjDZl09YqR/giphy.gif)
 
 ## Add your league acct | /setup_league_profile [summoner name]
 > /setup_league_profile
