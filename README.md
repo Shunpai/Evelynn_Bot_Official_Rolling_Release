@@ -1,5 +1,6 @@
+
 # Evelynn Bot
-![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1107517671966244874/anime-single.png)
+![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1116049705827315773/329158594785301475_cropped_2.png)
 ## _The Multipurpose League of Legends Bot_ 
 
 Evelynn is a multipurpose bot that allows server users to search for league of legends summoner names 
@@ -39,8 +40,8 @@ and retreive various kinds of summoner account information.
 
 ![https://discord.com/api/oauth2/authorize?client_id=824527346932908032&permissions=8&scope=bot](https://media.discordapp.net/attachments/841195123063914516/1090098213916258345/mmr_checked.png)
     
-## Clash Scouting | xclash [summoner name]
-> xclash [summoner name]
+## Clash Scouting | ` xclash [summoner name]` 
+> ` xclash [summoner name]`
 
 ![](https://media.discordapp.net/attachments/841195123063914516/1090104512196399135/image.png)
 
@@ -71,3 +72,12 @@ and retreive various kinds of summoner account information.
 
 ![](https://media.discordapp.net/attachments/841195123063914516/1092878182983663746/image.png)
 
+## Youtube Notifications |  ` xaddyoutube `
+> ` xaddyoutube [youtube_channel_ID] [mention_channel_to_notify] [youtube_channel_name] `
+
+![](https://media.discordapp.net/attachments/841195123063914516/1116052090914091061/image.png)
+
+## Twitch Notifications | `xaddtwitchdata`
+> ` xaddtwitchdata [channel_ID] [twitch_channel_name]`
+> 
+![](https://media.discordapp.net/attachments/841195123063914516/1116052972699402240/image.png)
